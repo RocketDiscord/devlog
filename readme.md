@@ -48,7 +48,10 @@ async def hello(ctx):
  # April 14th 2021:
   - Hired Risewill23
   
-  
-  # 23.04.2021
+ #23.04.2021
+ -Started working on the website
+ - Side project named "Ban Wars" was created.
+ 
+ # 23.04.2021
   - Hired king quacc
   - Rocket's website was made
