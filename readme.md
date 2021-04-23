@@ -1,4 +1,4 @@
-# Rocket Devlog
+# Rocket's OFFICIAL Devlog
 
 # March 30th :
 - Rocket was made
@@ -48,7 +48,7 @@ async def hello(ctx):
  # April 14th 2021:
   - Hired Risewill23
   
- #23.04.2021
+ # 23.04.2021
  
  -Started working on the website
  - Side project named "Ban Wars" was created.
