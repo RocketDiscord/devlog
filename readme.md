@@ -52,7 +52,5 @@ async def hello(ctx):
  
  -Started working on the website
  - Side project named "Ban Wars" was created.
- 
- # 23.04.2021
-  - Hired king quacc
-  - Rocket's website was made
+ - Hired king quacc
+ - Rocket's website was made
