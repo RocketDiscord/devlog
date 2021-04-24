@@ -11,7 +11,7 @@ Hiatus...
 - Moderation Bot
 - Created Bot For Application
 - All Code:
-```
+```py
 import discord
 from discord.ext import commands
 
